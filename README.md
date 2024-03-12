@@ -1,3 +1,4 @@
 # Ecommerce Promotion 
-Supervised Learning \n
+Supervised Learning 
+
 Regression
